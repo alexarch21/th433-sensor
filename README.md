@@ -1,2 +1,2 @@
 # th433-sensor
-Low power 433MHz Temperature / humidity sensor
+Battery powered 433MHz Temperature / humidity sensor with emulated Oregon Scientific RF protocol.
